@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **uzairattar209@gmail.com**
 
-- ⚡ Fun fact **I love to cook.**
+- ⚡ Fun fact I love to COOK 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
