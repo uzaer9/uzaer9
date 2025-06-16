@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python | Web Development | ML | AI | SQL | Django**
 - 📫 Reach me at: **uzairattar209@gmail.com**
-- 🌱 Currently working on **Healthcare AI Projects & Power BI Visuals**
+- 🌱 Currently working as **SDE Intern At BlueStock**
 - ⚡ Fun fact: *I love to cook and debug at the same time 🍳💻*
 
 ---
