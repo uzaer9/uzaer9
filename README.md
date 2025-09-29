@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python | Web Development | ML | AI | SQL | Django**
 - 📫 Reach me at: **uzairattar209@gmail.com**
-- 🌱 Currently working as **SDE Intern At BlueStock**
+- 🌱 Currently working as **SDE Intern At Coditation Systems**
 - ⚡ Fun fact: *Whether it's a bug or a ball, I’m always on the attack! ⚽*
 
 ---
