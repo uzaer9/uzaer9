@@ -44,12 +44,7 @@
 
 ---
 
-### 🚀 Projects You Should Check Out
 
-- 🔬 [**MedBrief**](https://github.com/uzaer9/medbrief) – AI-powered intelligent consultation summary system
-- 🛢️ [**Smart Fuel System**](https://github.com/uzaer9/smart-fuel-system) – Real-time CNG pump locator
-- 💬 [**Quera - Virtual Assistant**](https://github.com/uzaer9/quera-virtual-assistant) – NLP-based assistant for institutes
-- 🧠 [**Hospital Readmission Prediction**](https://github.com/uzaer9/hospital-readmission) – ML + Power BI dashboard for patient analysis
 
 ---
 
